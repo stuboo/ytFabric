@@ -1,6 +1,6 @@
 # ytFabric Extension
 
-ytFabric is a Chrome extension that captures YouTube video URLs, allows users to enter a filename, and copies a formatted command to the clipboard. It supports various YouTube URL formats and provides a user-friendly modal interface.
+ytFabric is a Chrome extension that captures YouTube video URLs, allows users to enter a filename, and copies a formatted command to the clipboard. These clipboard comments are meant to be used with [Fabric](https://github.com/danielmiessler/fabric) and, if set up correctly, will extract wisdom from a YouTube video. It supports various YouTube URL formats and provides a user-friendly modal interface.
 
 ## Features
 
